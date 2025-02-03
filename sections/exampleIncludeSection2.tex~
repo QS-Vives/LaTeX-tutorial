@@ -1,0 +1,3 @@
+\section*{Voorbeeld include}
+    Dit is een Voorbeeld van een section die in een andere file zit.
+    \cite{oetiker1995not} \ref{sec:verwijzingenBronvermelding}

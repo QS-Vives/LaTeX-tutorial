@@ -1,0 +1,6 @@
+\section*{Voorbeeld include}
+    Dit is een Voorbeeld van een section die in een andere file zit.
+
+    \
+
+    Merk op dat include altijd start op een nieuwe pagina en hetgeen na de include ook op een nieuwe pagina staat.

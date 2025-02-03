@@ -1,0 +1,6 @@
+\section*{Voorbeeld include}
+    Dit is een Voorbeeld van een section die in een andere file zit.
+
+    \
+
+    Merk op dat citeringen\cite{oetiker1995not} en referenties\ref{sec:verwijzingenBronvermelding}\ref{sec:exampleInclude1} gewoon werken, ookal zitten ze in een ander bestand.
